@@ -1,0 +1,3 @@
+# RPG-AI
+#openai 0.28.1
+#vosk 0.3.45
